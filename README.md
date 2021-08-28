@@ -1,2 +1,2 @@
-# Cryptocurrency-Excange-App-using-Blockchain
+# Cryptocurrency-Exchange-App-using-Blockchain
 # The project is in progress...
